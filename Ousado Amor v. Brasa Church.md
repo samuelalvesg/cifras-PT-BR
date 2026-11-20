@@ -1,65 +1,98 @@
-# Ousado Amor v. Brasa Church
+---
+titulo: Ousado Amor - Brasa Church
+musica: Ousado Amor
+artista: Brasa Church
+tom: G
+tempo: 
+compasso: 4/4
+momento: rendicao
+status: ⬜
+tags: [cifra, pt-br, a-aprender, letra]
 
-Tom: G
-```chordlyrics
-[Intro]
-|: Em  D4  C9  G :|2x
+teologia: Pendente (letra disponível, não avaliada)
+---
+# Ousado Amor - Brasa Church
 
-[Verso 1]
-  Em              D
-.   Antes de eu falar
-              C
+> Letra obtida via lrclib. Acordes ainda não preenchidos.
+
+## Letra
+
+Antes de eu falar
 Tu cantavas sobre mim
-Em              D               C
-.  Tu tens sido tão, tão bom pra mim
-Em                 D
-   Antes de eu respirar
-             C
-Sopraste Tua vida em mim
-Em              D               C
-.  Tu tens sido tão, tão bom pra mim
+Tu tens sido tão, tão bom pra mim
 
-[Refrão]
-     Em           D           C            G
-Oh Impressionante, Infinito e Ousado Amor de Deus
-       Em            D               C         G
-Oh,que deixa as noventa e nove só pra me encontrar
-               Em             D             C           G
-Não posso comprá-Lo e nem merecê-Lo, mesmo assim Se entregou
-     Em           D           C            G9
-Oh Impressionante, infinito e ousado amor de Deus
+Antes de eu respirar
+Sopraste tua vida em mim
+Tu tens sido tão, tão bom pra mim
 
-|: Em  D4  C9  G :|2x
+Oh, impressionante, infinito
+E ousado amor de Deus
+Oh, que deixa as noventa e nove
+Só pra me encontrar
 
-[Verso 2]
-Em           D
-. Inimigo eu fui
-               C
-Mas Teu amor lutou por mim
-Em             D                C
-.  Tu tens sido tão, tão bom pra mim
-Em               D
-.  Eu não tinha valor
-           C
+Não posso comprá-lo, nem merecê-lo
+Mesmo assim se entregou
+Oh, impressionante, infinito
+E ousado amor de Deus, yeah
+
+Inimigo eu fui
+Mas teu amor lutou por mim
+Tu tens sido tão, tão bom pra mim
+
+Não tinha valor
 Mas tudo pagou por mim
-Em             D                C
-.  Tu tens sido tão, tão bom pra mim
+Tu tens sido tão, tão bom pra mim
 
-[>[Refrão]]
+Oh, impressionante, infinito
+E ousado amor de Deus
+Oh, que deixa as noventa e nove
+Só pra me encontrar
 
-[Ponte]
-Em                 D
-.  Trás luz para as sombras
-       C
+Não posso comprá-lo, nem merecê-lo
+Mesmo assim se entregou
+Oh, impressionante, infinito
+E ousado amor de Deus, yeah
+
+Traz luz para as sombras
 Escala montanhas
-           G9
 Pra me encontrar
-Em        D
-.  Derruba muralhas
-         C
-Destrói mentiras
-           G9
+Derruba muralhas
+Destrói as mentiras
 Pra me encontrar
 
-[>[Refrão]]
+Traz luz para as sombras
+Escala montanhas
+Pra me encontrar
+Derruba muralhas
+Destrói as mentiras
+Pra me encontrar
+
+Traz luz para as sombras
+Escala montanhas
+Pra me encontrar
+Derruba muralhas
+Destrói as mentiras
+Pra me encontrar
+
+Traz luz para as sombras
+Escala montanhas
+Pra me encontrar
+Derruba muralhas
+Destrói as mentiras
+Pra me encontrar
+
+Oh, impressionante, infinito
+E ousado amor de Deus
+Oh, que deixa as noventa e nove
+Só pra me encontrar
+
+Não posso comprá-lo, nem merecê-lo
+Mesmo assim se entregou
+Oh, impressionante, infinito
+E ousado amor de Deus, yeah, yeah
+
+## Harmonia
+
+```chords
+[Estrutura]
 ```

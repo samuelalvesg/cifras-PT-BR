@@ -1,75 +1,61 @@
-# Tu És Soberano - v. Morada
-Tom: G
-```chordlyrics
-[Intro]
-|: Em  C  G/B  C :|2x
+---
+titulo: Tu És Soberano - Morada
+musica: Tu És Soberano
+artista: Morada
+tom: G
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, acustico, letra]
 
-[Verso 1]
-Em         G/B
-Tu És so - berano
-        Am7
-Sobre a Terra, sobre os céus
-      C7M
-Tu És Senhor
-D    Em7
-Absoluto
-Em        G/B      Am7
+teologia: Pendente (letra disponível, não avaliada)
+---
+# Tu És Soberano - Morada
+
+> Letra obtida via lrclib. Acordes ainda não preenchidos.
+
+## Letra
+
+Tu és soberano sobre a terra
+Sobre os céus tu és senhor, absoluto
 Tudo que existe e acontece
-               C7M
-Tu sabes muito bem
-D4          G
-Tu És tremendo
+Tu sabes muito bem, tu és tremendo
 
-[Refrão]
-Am       G/B   
-E apesar
-C     G
-Desta glória que Tens
-Am7        G/B C    G
-Tu te impor - tas comigo também
-Em              D
-E esse amor tão grande
-  C                   D
-Eleva-me, amarra-me a Ti
-C            Em  G/B  C
-Tu És tremendo
+E apesar dessa glória que tens
+Tu te importas, comigo também
+E esse amor tão grande, eleva-me, amarra-me a ti
+Tu és tremendo
 
-[>[Verso 1]]
+Tu és soberano sobre a terra
+Sobre os céus tu és senhor, absoluto
+Tudo que existe e acontece
+Tu sabes muito bem, tu és tremendo, e apesar
 
-Am       G/B   
-E apesar
-C     G
-Desta glória que Tens
-Am7        G/B C    G
-Tu te impor - tas comigo também
-Em              D
-E esse amor tão grande
-  C                   D
-Eleva-me, amarra-me a Ti
-C           G
-Tu És tremendo
+E apesar dessa glória que tens
+Tu te importas, comigo também
+E esse amor tão grande, eleva-me, amarra-me a me a ti
+Tu és tremendo
 
-Am       G/B   
-E apesar
-C     G
-Desta glória que Tens
-Am      Am G/B C     G
-Tu te impor - tas comigo também
-Em              D
-E esse amor tão grande
-  C                   D
-Eleva-me, amarra-me a Ti
-C         G     C7M
-Tu És tremendo
-          G/B  C
-Tu És tremendo
-          G/B   C
-Tu És tremendo
-           Em   C7M
-Tu És tremendo
+E apesar dessa glória que tens
+Tu te importas, comigo também
+E esse amor tão grande, eleva-me, amarra-me a ti
+Tu és tremendo
 
-[Solo]
-|: Em  C  G/B  C :|6x
-|: D  Em  C  G/B :|4x
-Em
+Tu és tremendo
+Tu és tremendo
+
+Tu és tão santo, tão lindo, tão ungido
+E não há ninguém que se compare a você Jesus
+E não há ninguém que se compare
+
+Tu és tremendo (tu és, tu és, tu és)
+Tu és tremendo (tu és tremendo)
+
+Tu és tremendo
+
+## Harmonia
+
+```chords
+[Estrutura]
 ```

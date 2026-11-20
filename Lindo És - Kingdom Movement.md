@@ -35,7 +35,7 @@ Capotraste: 2ª casa
 [Intro 3x]
 |Em7 | C9 | G | Bm7 | 3x
 
-[Verso 1 2x] 
+[Parte 1 2x] 
 |Em7                        |C |
     Desde o principio era o verbo
 |                    |G |
@@ -50,8 +50,8 @@ Não o meu querer mas sim o Teu
                     |D |
 Maravilhados nos rendemos
 
-
 Cantando
+
 
 [Refrão 2x]
 
@@ -64,7 +64,7 @@ Jesus, Jesus
 
 |Em7 | C9 | G | Bm7 | 2x
 
-
+[Parte 2]
 |Em7                            |C |
     Quem pode crer? Quem pode ouvir?
                      |G |
@@ -81,7 +81,7 @@ Todas os povos se prostrarão
 
 Cantando
 
-->[Refrão 4x]
+[-> Refrão 4x]
 
 [Refrão_2 4x]
    |Em7            |C |

@@ -1,3 +1,8 @@
+---
+titulo: Repertório 2023 (Hinos)
+tags: [historico, repertorio]
+status: ⚠️
+---
 
 ## Repertorio 202308:
 

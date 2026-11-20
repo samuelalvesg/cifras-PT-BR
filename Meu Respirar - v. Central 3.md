@@ -1,42 +1,69 @@
-# Meu Respirar - v. Central 3
-Composição de Marie Barnett
-Tom: A
-```chordlyrics
-[Intro]
-A2  D2  A2  D2
+---
+titulo: Meu Respirar - Central 3
+musica: Meu Respirar
+artista: Central 3
+tom: A
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
 
-[Primeira Parte]
-A2               D2
-.  Este é o meu respirar
-A2               D2
-.  Este é o meu respirar
-A2      E/G#    F#m   E
-.  Teu Santo Espírito
-   D2   F#m     E(4)
-Vivendo     em mim
+teologia: Pendente (letra disponível, não avaliada)
+---
+# Meu Respirar - Central 3
 
-A2        D2
-   E este é o meu pão
-A2        D2
-   E este é o meu pão
-A2   E/G#  F#m  E
-   Tua vontade
- D2   F#m    (E4)  E
-Feita     em mim
+> Letra obtida via lrclib. Acordes ainda não preenchidos.
 
-[Refrão]
-  A2  E/G#  F#m  E
-E eu
-         D2        F#m  E
-Eu nada sou sem Ti
-  A2  E/G#  F#m  E
-E eu
-           D2        F#m  E
-Perdido estou sem Ti
+## Letra
 
-[>[Primeira Parte]]
+Este é o meu respirar
+Este é o meu respirar
+Teu Santo Espírito
+Vivendo em mim
 
-[>[Refrão]3x]
+E este é o meu pão
+E este é o meu pão
+Tua vontade feita em mim
 
+E eu, eu nada sou sem Ti
+E eu, perdido estou sem Ti
+
+Este é o meu respirar
+Este é o meu respirar
+Teu Santo Espírito
+Vivendo em mim
+
+E este é o meu pão
+E este é o meu pão
+Tua vontade feita em mim
+
+E eu, eu nada sou sem Ti (nada)
+E eu, perdido estou sem Ti
+
+E eu, eu nada sou sem Ti
+E eu, perdido estou sem Ti
+
+Perdida estou
+Tu és Jesus
+Tu és, Tu és
+Te amo
+
+E eu, eu nada sou sem Ti
+E eu, perdido estou sem Ti
+
+Perdida estou sem Ti
+Perdida
+Perdida estou sem Ti
+Perdida estou sem Ti
+Pai eu Te amo
+Preciso de Ti
+
+Este é o meu respirar
+Este é o meu respirar
+
+## Harmonia
+
+```chords
+[Estrutura]
 ```
-

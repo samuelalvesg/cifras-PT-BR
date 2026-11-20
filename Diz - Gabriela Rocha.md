@@ -1,0 +1,81 @@
+---
+titulo: Diz - Gabriela Rocha
+musica: Diz (You Say)
+artista: Gabriela Rocha
+tom: 
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ⬜ sem acordes
+tags: [cifra, pt-br, ukulele, adoracao, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
+# Diz - Gabriela Rocha
+
+> Letra obtida via lrclib. Acordes ainda não preenchidos.
+
+## Letra
+
+Luto contra vozes que me dizem que eu não sou capaz
+Contra enganos que me dizem que eu não vou chegar lá
+Meus altos e baixos nunca vão medir o meu valor
+A tua voz me lembra e me diz quem realmente sou, oh
+
+Diz que amado sou
+Sem que eu me sinta assim
+Diz que forte sou
+Quando há fraqueza em mim
+
+E que seguro estou
+Se frágil eu me sentir
+Que não estou só
+Pois eu pertenço a ti
+
+Eu creio, sim
+Eu creio, sim
+No que diz sobre mim
+
+Tudo que me importa agora é o que tua voz me diz
+A minha identidade e valor só encontro em ti, oh
+
+Diz que amado sou
+Sem que eu me sinta assim
+Diz que forte sou
+Quando há fraqueza em mim
+
+E que seguro estou
+Se frágil eu me sentir
+Que não estou só
+Pois eu pertenço a ti
+
+Eu creio, sim
+Eu creio, sim
+No que diz sobre mim
+
+Tudo que eu tenho rendo aos teus pés, a mais ninguém
+Te dei meus fracassos e as vitórias te darei também, oh
+
+Diz que amado sou
+Sem que eu me sinta assim
+Diz que forte sou
+Quando há fraqueza em mim
+
+E que seguro estou
+Se frágil eu me sentir
+Que não estou só
+Pois eu pertenço a ti
+
+Eu creio, sim
+Eu creio, sim
+No que diz sobre mim
+
+Eu creio, sim
+Eu creio, sim
+No que diz sobre mim
+
+## Harmonia
+
+```chords
+[Estrutura]
+```
