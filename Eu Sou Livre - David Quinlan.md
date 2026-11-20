@@ -1,3 +1,27 @@
+---
+titulo: Eu Sou Livre - David Quinlan
+musica: Eu Sou Livre
+artista: David Quinlan
+tom: C
+tempo: 
+compasso: 4/4
+momento: animada
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 1WpdUr4JfsahyWnbGo2TRw
+spotify_tom: C Major
+spotify_bpm: 160
+spotify_compasso: 4
+energia: 75
+valencia: 21
+acustica: 0
+danca: 22
+duracao: 06:49
+album: No Infinito Deste Amor
+isrc: BRDVQ1100016
+---
 # Eu Sou Livre - David Quinlan
 Tom: C
 ```chords

@@ -1,3 +1,27 @@
+---
+titulo: Não Há Amor Igual - MORADA
+musica: Não Há Amor Igual
+artista: MORADA
+tom: B
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 3CTil5XNg4xeZqpgZbebfe
+spotify_tom: B Major
+spotify_bpm: 145
+spotify_compasso: 4
+energia: 85
+valencia: 37
+acustica: 9
+danca: 41
+duracao: 06:50
+album: Ele É (Ao Vivo)
+isrc: BX8Y12000001
+---
 # Não Há Amor Igual - MORADA
 
 Tom: B

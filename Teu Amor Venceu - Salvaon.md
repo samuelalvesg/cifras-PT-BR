@@ -1,3 +1,27 @@
+---
+titulo: Teu Amor Venceu - Salvaon
+musica: Teu Amor Venceu
+artista: Salvaon
+tom: E
+tempo: 
+compasso: 4/4
+momento: exaltacao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 0Ra5T1SPtB8QNKMuJZp9Mo
+spotify_tom: B Major
+spotify_bpm: 130
+spotify_compasso: 4
+energia: 59
+valencia: 30
+acustica: 36
+danca: 52
+duracao: 04:32
+album: Teu Amor Venceu (Acústico)
+isrc: BKB782400043
+---
 ```chords
 Teu Amor Venceu - Salvaon
 

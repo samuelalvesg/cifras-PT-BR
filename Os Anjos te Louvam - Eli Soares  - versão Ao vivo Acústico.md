@@ -1,3 +1,16 @@
+---
+titulo: Os Anjos te Louvam - Eli Soares (Acústico)
+musica: Os Anjos te Louvam
+artista: Eli Soares
+tom: C#m
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, acustico, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
 # Os Anjos te Louvam - Eli Soares - versão Ao vivo Acústico
 Tom: C#m / E
 Tempo: 106

@@ -1,3 +1,27 @@
+---
+titulo: Lindo És - Kingdom Movement
+musica: Lindo És
+artista: Kingdom Movement
+tom: A
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, ukulele, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 5Rs7FEDPQm5ql3lmQQkX5l
+spotify_tom: A Major
+spotify_bpm: 136
+spotify_compasso: 4
+energia: 46
+valencia: 9
+acustica: 8
+danca: 49
+duracao: 05:42
+album: Lindo És
+isrc: BXZ2E2000001
+---
 # Lindo És - Kingdom Movement
 
 www.youtube.com/watch?v=WldLCaHG6sY

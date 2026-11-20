@@ -1,3 +1,27 @@
+---
+titulo: Tudo a Ver Com Ele - Central 3
+musica: Tudo a Ver Com Ele
+artista: Central 3
+tom: G
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 3vddabBsXcvoerPkIlDHDF
+spotify_tom: G Major
+spotify_bpm: 137
+spotify_compasso: 4
+energia: 66
+valencia: 21
+acustica: 33
+danca: 37
+duracao: 07:09
+album: Tudo a Ver Com Ele (Ao Vivo)
+isrc: BROOD1800222
+---
 Tom (original): G
 Tempo: 4/4 66bpm 
 

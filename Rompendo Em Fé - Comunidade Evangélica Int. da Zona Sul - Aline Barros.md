@@ -1,5 +1,15 @@
 ---
+titulo: Rompendo Em Fé - Aline Barros
+artista: Aline Barros
+tom: A
+momento: rendicao
+status: ✅
+
 cssclass: two-columns
+
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
 ---
 # Rompendo Em Fé - Comunidade Evangélica Int. da Zona Sul - Aline Barros
 Tom: A

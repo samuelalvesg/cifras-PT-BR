@@ -1,3 +1,27 @@
+---
+titulo: Meu Coração Te Pertence - Salzband (C)
+musica: Meu Coração Te Pertence
+artista: Salzband
+tom: C
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 1a0o8IHsqnvW313P98H5oM
+spotify_tom: C Major
+spotify_bpm: 140
+spotify_compasso: 4
+energia: 39
+valencia: 43
+acustica: 5
+danca: 59
+duracao: 06:18
+album: A Esperança Se Renova
+isrc: BRWUE1200002
+---
 # Meu Coração Te Pertence - Salzband
 https://www.youtube.com/watch?v=21dw61_QY-U
 

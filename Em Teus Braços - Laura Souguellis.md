@@ -1,3 +1,27 @@
+---
+titulo: Em Teus Braços - Laura Souguellis
+musica: Em Teus Braços
+artista: Laura Souguellis
+tom: G
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, ukulele, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 0kH6BPFcm3yNBVry3SpwMQ
+spotify_tom: C Major
+spotify_bpm: 134
+spotify_compasso: 4
+energia: 37
+valencia: 26
+acustica: 52
+danca: 30
+duracao: 12:15
+album: Fornalha Laura Souguellis
+isrc: BXBIW1700003
+---
 # Em Teus Braços - Laura Souguellis
 
 Tom: G

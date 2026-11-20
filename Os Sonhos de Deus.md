@@ -1,3 +1,16 @@
+---
+titulo: Os Sonhos de Deus - Gabriela Rocha
+musica: Os Sonhos de Deus
+artista: Gabriela Rocha
+tom: G
+tempo: 
+compasso: 4/4
+momento: rendicao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
 #### Os Sonhos de Deus  - Gabriela Rocha
 Tom: G
 ```chords

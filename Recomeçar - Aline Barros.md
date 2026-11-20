@@ -1,4 +1,10 @@
 ---
+titulo: Recomeçar - Aline Barros
+artista: Aline Barros
+tom: F
+momento: rendicao
+status: ✅
+
 
 title: "Aline Barros - Recomeçar"
 date: 2025-03-26
@@ -6,9 +12,13 @@ tags:
   - Cifra
   - Música
 tom: "F"
-artista: "Aline Barros"
+artista: Aline Barros
 obra: "Recomeçar"
 compositor: "Marcelo Manhãs"
+
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
 ---
 # `=this.title` 
 ---

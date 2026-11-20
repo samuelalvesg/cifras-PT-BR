@@ -1,6 +1,27 @@
+---
+titulo: Canção de Simeão - INA Drops
+musica: Canção de Simeão
+artista: INA Drops
+tom: A
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
 
-
-
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 7s1w75NfDYeeEz8lnz6Dm0
+spotify_tom: A Major
+spotify_bpm: 140
+spotify_compasso: 3
+energia: 26
+valencia: 14
+acustica: 46
+danca: 21
+duracao: 06:44
+album: Canção de Simeão (Ao Vivo)
+isrc: BROOD2000485
+---
 Tom: A (com forma de G)
 
 Capotraste: 2ª casa

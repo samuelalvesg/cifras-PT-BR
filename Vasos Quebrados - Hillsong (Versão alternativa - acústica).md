@@ -1,3 +1,16 @@
+---
+titulo: Vasos Quebrados - Hillsong (Acústico)
+musica: Vasos Quebrados
+artista: Hillsong
+tom: C
+tempo: 
+compasso: 4/4
+momento: rendicao
+status: ✅
+tags: [cifra, pt-br, acustico, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
 # Vasos Quebrados ( Sublime Graça ) - Hillsong Em Português
 ### (Versão alternativa - acústica)
 

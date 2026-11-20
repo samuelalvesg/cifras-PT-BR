@@ -1,3 +1,16 @@
+---
+titulo: Eu Só Quero Tua Presença - Theo Rubia
+musica: Eu Só Quero Tua Presença
+artista: Theo Rubia
+tom: G
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
 # Eu Só Quero Tua Presença - Theo Rubia
 
 Tom: G

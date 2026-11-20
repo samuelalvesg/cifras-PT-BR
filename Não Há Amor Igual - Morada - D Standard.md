@@ -1,3 +1,27 @@
+---
+titulo: Não Há Amor Igual - Morada (D Standard)
+musica: Não Há Amor Igual
+artista: MORADA
+tom: B
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+spotify_id: 3CTil5XNg4xeZqpgZbebfe
+spotify_tom: B Major
+spotify_bpm: 145
+spotify_compasso: 4
+energia: 85
+valencia: 37
+acustica: 9
+danca: 41
+duracao: 06:50
+album: Ele É (Ao Vivo)
+isrc: BX8Y12000001
+---
 # Não Há Amor Igual - MORADA - D Standard
 
 Tom: B
@@ -40,7 +64,7 @@ Nós fomos lavados
 
 [Pré-Refrão]
 
-|      Dm7[xx0211]  /       /      / ( C/E ) |F7M |   ---( C/E -> colcheia)
+|      Dm7[xx0211]  /       /      / ( C/E ) |F7M |
 E o castigo         que nos traz a pa___a_____z
 |       Am7  |  G |
 Estava sobre ti
@@ -157,10 +181,4 @@ Sim, Jesus me salvou
 És o sacrifício per_fei___to
 |  Dm7  /    /      C/E | F7M |
 És o sacrifício per_fei___to
-
-
-
-E/G#[4_22_400]
-F#m[202200]
-G#m[4x4400]
 ```

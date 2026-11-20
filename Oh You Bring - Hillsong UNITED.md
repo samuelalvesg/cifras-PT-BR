@@ -1,3 +1,16 @@
+---
+titulo: Oh You Bring - Hillsong UNITED
+musica: Oh You Bring
+artista: Hillsong UNITED
+tom: D
+tempo: 
+compasso: 4/4
+momento: adoracao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
 # Oh You Bring - Hillsong UNITED
 (usar capo 5 (Afinação E) / 7 ( Afinação D ) )
 

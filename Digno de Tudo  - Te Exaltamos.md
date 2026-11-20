@@ -1,3 +1,16 @@
+---
+titulo: Digno de Tudo / Te Exaltamos - FHOP
+musica: Digno de Tudo / Te Exaltamos
+artista: FHOP
+tom: G
+tempo: 
+compasso: 4/4
+momento: exaltacao
+status: ✅
+tags: [cifra, pt-br, letra]
+
+teologia: Pendente (letra disponível, não avaliada)
+---
 # Digno de Tudo / Te Exaltamos
 
 
